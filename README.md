@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Andrew</h1>
 
-<p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheenthebest&theme=transparent" alt="sheenthebest" /> </p>
+<!-- <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheenthebest&theme=transparent" alt="sheenthebest" /> </p> -->
 
 <!--
 **sheenthebest/sheenthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
